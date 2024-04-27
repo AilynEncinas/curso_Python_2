@@ -1,0 +1,29 @@
+#Eje 3
+print(17%3)
+print(3**2)
+print(24//9)
+#Eje 4
+a=5
+b=8
+a+=b
+print(a)
+d=5
+e=8
+d-=e
+print(d)
+f=5
+g=8
+f/=g
+print(f)
+h=5
+i=8
+h%=i
+print(h)
+j=5
+k=8
+j**=k
+print(j)
+l=5
+m=8
+l*=m
+print(l)
