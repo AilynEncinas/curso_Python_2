@@ -1,5 +1,24 @@
-id,producto,precio
-100001,arroz,158
-100002,pan,48
-100003,fideos,58
-
+id,codigo_cliente,cliente,producto,precio,descuento,iva
+1,100001,Ramiro Perez,arroz,158,,
+2,100002,Carlos Callisaya,pan,589,,
+3,100003,Raul Siñani,fideos,125,,
+4,100004,Miguel Ramos,gaseosas,89,,
+5,100005,Maria Tintaya,cereales,257,,
+6,100006,Ramiro Ramirez,arina,358,,
+7,100000,Gabriel,Papas Fritas,68,,
+8,100000,Gabriel,Papas Fritas,68,,
+9,100000,Gabriel,Papas Fritas,68,,
+10,100000,Gabriel,Papas Fritas,68,,
+11,100000,Gabriel,Papas Fritas,68,,
+12,100000,Gabriel,Papas Fritas,68,,
+13,10,Aiyn,Comida,15
+14,100000,Gabriel,Papas Fritas,68,,
+15,100000000000,a,b,15
+16,100000,Gabriel,Papas Fritas,68,,
+17,100000,Gabriel,Papas Fritas,68,,
+18,10000000,Ailyn,Leche,18
+19,15,Marcos,Chocolate,100
+20,100000,Gabriel,Papas Fritas,68,,
+21,15,Ailyn,Encinas,20
+22,100000,Gabriel,Papas Fritas,68,,
+23,15,s,b,12
